@@ -2,7 +2,7 @@
                            WIT ACE - HACKATHON PROJECT
 
 
-QR Scannable Washable Tags 
+Submission Name:QR Scannable Washable Tags 
 
 EDENS-ZERO-DESCRIPTION:
 
